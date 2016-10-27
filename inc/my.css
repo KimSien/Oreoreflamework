@@ -1,0 +1,13 @@
+body{padding:0px;box-sizing:border-box;}
+
+
+
+cl{clear:both;display: block;}
+
+
+a{text-decoration: blink;}
+.genzai a {
+    text-decoration: underline;
+}
+li{display: inline-block;}
+

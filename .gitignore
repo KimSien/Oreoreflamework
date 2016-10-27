@@ -1,0 +1,16 @@
+﻿#除外
+
+*.bk
+
+#####sorce file
+####src/
+*.jpg
+*.jpeg
+*.png
+
+#database
+app/db_config.php
+
+
+#for mac
+.DS_Store
